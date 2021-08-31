@@ -33,7 +33,7 @@ This, being a capstone project, we don't have to worry about most of them. We ha
 Motivate International Inc.
 
 ## Process
-Tools chosen for analysis - SQL, R and Tableau
+Tools chosen for analysis - SQL and Tableau
 
 All the 12 csv files containing the ride data have been imported into a MySQL database -'Cyclistic'. While going through the data, it was found that station IDs were integers untilNovember 2020 and post that, the data type changed to varchar. So clearly, the formats of station IDs have changed starting from Dec ’20. To negate this, all the station IDs were converted to varchar.
 
