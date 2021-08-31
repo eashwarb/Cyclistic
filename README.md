@@ -187,23 +187,23 @@ else null  end;
 ```
         #We have a cleandata set to work with.
 ## Analyze
-Now we look at some interesting insights derived from the cleaned data set. To start off, lets look at the number of rides taken by casual and annual members over the past 12 months.
-            <img width="540" alt="download x" src="https://user-images.githubusercontent.com/79919319/131563298-db6c5ca1-97f7-403b-93f4-a993d66504e3.png">
+Now we look at some interesting insights derived from the cleaned data set. To start off, lets look at the number of rides taken by casual and annual members over the past 12 months.<br/>
+            <img width="540" alt="download x" src="https://user-images.githubusercontent.com/79919319/131563298-db6c5ca1-97f7-403b-93f4-a993d66504e3.png"><br/>
 As expected, the annual member rides are more than the casual rides and this is by a margin of 38%.
 
 This chart gives an idea about the number of rides taken by the two types of customers in each month.
-Note - Our data begins from June 2020 - May 2021.
-            <img width="540" alt="download 2" src="https://user-images.githubusercontent.com/79919319/131562781-7c3d4814-f6b8-446a-81aa-8d3351a23868.png">
+Note - Our data begins from June 2020 - May 2021.<br/>
+            <img width="540" alt="download 2" src="https://user-images.githubusercontent.com/79919319/131562781-7c3d4814-f6b8-446a-81aa-8d3351a23868.png"><br/>
 It is evident from the chart that riders from both the groups tend to have seasonal impact on bike usage.
 
-Similarly let us have a look at the average trip durations on monthly basis. 
-           <img width="540" alt="download 3" src="https://user-images.githubusercontent.com/79919319/131562821-62432515-297a-4808-8e0a-8a9a8401d5ac.png">
+Similarly let us have a look at the average trip durations on monthly basis. <br/>
+           <img width="540" alt="download 3" src="https://user-images.githubusercontent.com/79919319/131562821-62432515-297a-4808-8e0a-8a9a8401d5ac.png"> <br/>
 
 This graph also shows the seasonal impact of ride lengths on both the consumer types. Also we notice stark difference in the ride lengths in casual riders and members. The ride lengths are pretty consistent in the case of annual members, while the ride times rise in the summer in the case of casual riders.
 
-To draw some day wise insights regarding the bike usage we have similar charts plotted for each day of the week.
-          <img width="540" alt="download 4" src="https://user-images.githubusercontent.com/79919319/131562888-14f5ae1a-d8a9-44bb-99c4-5720b1e50272.png">
-          <img width="540" alt="download 5" src="https://user-images.githubusercontent.com/79919319/131563005-de4e7cc3-c9b5-4208-b997-0935141889dd.png">
+To draw some day wise insights regarding the bike usage we have similar charts plotted for each day of the week. <br/>
+          <img width="540" alt="download 4" src="https://user-images.githubusercontent.com/79919319/131562888-14f5ae1a-d8a9-44bb-99c4-5720b1e50272.png"> <br/>
+          <img width="540" alt="download 5" src="https://user-images.githubusercontent.com/79919319/131563005-de4e7cc3-c9b5-4208-b997-0935141889dd.png"> <br/>
 
 
 It is clearly evident from these graphs that annual members seem to have most of their usage on weekdays only and we also notice that ride times are consistent through out the weekdays and slightly increase during the weekends.
